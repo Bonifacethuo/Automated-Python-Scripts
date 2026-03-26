@@ -10,8 +10,6 @@ Manually reading and comparing data across multiple slide decks and spreadsheet 
 * **Language:** Python 3.x
 * **Libraries:** `pandas` (for data manipulation), `openpyxl` (for reading Excel files), `zipfile` & `re` (for parsing PPTX XML contents), `os` (for file management)
 
-## Screenshots / demo
-*(Add a screenshot of your terminal output or the generated `output.txt` files here, demonstrating the extracted slide text and DataFrame columns)*
 
 ## Setup instructions
 1. Ensure you have Python installed on your Windows machine.
